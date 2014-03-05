@@ -10,4 +10,13 @@ and 1634 (4 digits):
 
 The Challenge:
 
-Your code must return true or false depending upon whether the given number is a Narcissistic number.
+Your code must return whether the given number is a Narcissistic number or it is not a Narcissistic number.
+
+Example:
+
+narcissistic?(153) returns "153 is narcissistic"
+
+narcissistic?(9999) returns "999 is not narcissistic"
+
+
+
