@@ -7,6 +7,7 @@ For example, take 153 (3 digits):
 and 1634 (4 digits):
 
 1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634
+
 The Challenge:
 
 Your code must return true or false depending upon whether the given number is a Narcissistic number.
